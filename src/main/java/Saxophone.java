@@ -13,8 +13,14 @@ public class Saxophone extends Instruments{
 
     @Override
     public double calculateMarkup() {
+
         int x = getBuyPrice();
         int y = getSellPrice();
-        return ((y-x)/x)*100;
+        return ((double)(y-x)/x)*100 ;
+    }
+
+    @Override
+    public double sellItem() {
+        return (double)getSellPrice();
     }
 }

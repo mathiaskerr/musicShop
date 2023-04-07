@@ -21,12 +21,27 @@ public class MusicShopTest {
         musicShop.addStock(saxophone);
         assertEquals(1,musicShop.getMusicThings().size());
     }
-
+    @Test
+    public void canRemoveStock(){
+        musicShop.addStock(saxophone);
+        musicShop.removeStock(saxophone);
+        assertEquals(0,musicShop.getMusicThings().size());
+    }
+    @Test
+    public void canRemoveMoreStock() {
+        musicShop.addStock(saxophone);
+        musicShop.addStock(musicThings);
+        musicShop.removeStock(musicThings);
+        assertEquals(1, musicShop.getMusicThings().size());
+    }
     @Test
     public void canSellthing(){
         musicShop.addStock(saxophone);
-        musicShop.sellItem(saxophone);
-        assertEquals(0,musicShop.getMusicThings().size());
+        musicShop.sellStock(saxophone);
+        musicShop.addStock(drums);
+        musicShop.sellStock(drums);
+        assertEquals(0,musicShop.getMusicThings().size(),0);
+        assertEquals(1200.0,musicShop.getTill(),0);
 
     }
 }

@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Objects;
 
 public class MusicShop {
 
@@ -32,8 +33,14 @@ public class MusicShop {
         musicThings.add(thing);
     }
 
-    public void sellItem(ISell thing) {
+    public void removeStock(ISell thing) {
+        musicThings.remove(thing);
+    }
 
-
+    public void sellStock(ISell thing) {
+        if(musicThings.contains(thing)){
+            removeStock(thing);
+        }
+        setTill(getTill() + thing.sellItem());
     }
 }

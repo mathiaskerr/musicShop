@@ -5,24 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1235812-7837-4819-a4ee-268673613e24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Drums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ISell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InstrumentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Instruments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MusicShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MusicThings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Saxophone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/InstrumentsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MusicShopTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MusicThingsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Drums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Drums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ISell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ISell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MusicShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MusicShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MusicThings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MusicThings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Saxophone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Saxophone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MusicShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MusicShopTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.MusicThingsTest.canCalculateMarkU">
+  <component name="RunManager">
     <configuration name="InstrumentsTest.canCalculateMarkUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="music" />
       <option name="PACKAGE_NAME" value="" />
@@ -90,11 +79,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstrumentsTest.saxCanPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MusicShopTest.canSellthing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="music" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="InstrumentsTest" />
-      <option name="METHOD_NAME" value="saxCanPlay" />
+      <option name="MAIN_CLASS_NAME" value="MusicShopTest" />
+      <option name="METHOD_NAME" value="canSellthing" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MusicShopTest.canSellthing" />
         <item itemvalue="JUnit.MusicThingsTest.canCalculateMarkU" />
-        <item itemvalue="JUnit.InstrumentsTest.canCalculateMarkUp" />
         <item itemvalue="JUnit.InstrumentsTest.drumsCanCalculateMarkUp" />
+        <item itemvalue="JUnit.InstrumentsTest.canCalculateMarkUp" />
         <item itemvalue="JUnit.InstrumentsTest.drumsCanPlay" />
-        <item itemvalue="JUnit.InstrumentsTest.saxCanPlay" />
       </list>
     </recent_temporary>
   </component>
@@ -141,16 +130,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/InstrumentsTest.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
