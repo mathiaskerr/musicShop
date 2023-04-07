@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1235812-7837-4819-a4ee-268673613e24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Drums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ISell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InstrumentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Instruments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MusicShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MusicThings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Saxophone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/InstrumentsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MusicShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MusicThingsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O5qvsZ4AemNAmo7fhbKlQ57cq0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.MusicThingsTest.canCalculateMarkU">
+    <configuration name="InstrumentsTest.canCalculateMarkUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstrumentsTest" />
+      <option name="METHOD_NAME" value="canCalculateMarkUp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstrumentsTest.drumsCanCalculateMarkUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstrumentsTest" />
+      <option name="METHOD_NAME" value="drumsCanCalculateMarkUp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstrumentsTest.drumsCanPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstrumentsTest" />
+      <option name="METHOD_NAME" value="drumsCanPlay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstrumentsTest.saxCanPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstrumentsTest" />
+      <option name="METHOD_NAME" value="saxCanPlay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicThingsTest.canCalculateMarkU" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MusicThingsTest" />
+      <option name="METHOD_NAME" value="canCalculateMarkU" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MusicThingsTest.canCalculateMarkU" />
+        <item itemvalue="JUnit.InstrumentsTest.canCalculateMarkUp" />
+        <item itemvalue="JUnit.InstrumentsTest.drumsCanCalculateMarkUp" />
+        <item itemvalue="JUnit.InstrumentsTest.drumsCanPlay" />
+        <item itemvalue="JUnit.InstrumentsTest.saxCanPlay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1235812-7837-4819-a4ee-268673613e24" name="Changes" comment="" />
+      <created>1680861026450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680861026450</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/InstrumentsTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
